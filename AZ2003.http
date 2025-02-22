@@ -1,4 +1,4 @@
-@AZ2003_HostAddress = http://localhost:5041
+@AZ2003_HostAddress = http://localhost:5293
 
 GET {{AZ2003_HostAddress}}/weatherforecast/
 Accept: application/json
